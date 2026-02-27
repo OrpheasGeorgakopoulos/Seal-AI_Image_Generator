@@ -1,2 +1,13 @@
-# Seal-Ai-Image-Gen-
-AI Image generator using OpenAIs new model gpt-image-1.5 #OpenAI #Python #ImageGeneration
+# Seal
+# AI Image Generator
+for OpenAIs new model gpt-image-1.5
+
+Libraries:
+- tkinter
+- ttkthemes
+- openai
+- pillow
+- base64 (for image decoding)
+
+Preview Image:
+![Preview](Preview.png)
